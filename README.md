@@ -1,16 +1,32 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=400000&height=120&section=header"/>
 
-<!--
-**SaraKozoski/SaraKozoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oiie, Sara Aqui!!!!
 
-Here are some ideas to get you started:
+<div>  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraKozoskir&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKozoski&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+<div align="center"><br>
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />         
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />        
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />    
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+</div>
+
+##
+
+<div>
+
+</div>
+
+![snake gif](https://github.com/SaraKozoski/SaraKozoski/blob/output/github-contribution-grid-snake-dark.svg)
+
+ <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=400000&height=120&section=footer"/>
+
+
+

@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=400000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=181718&height=120&section=header"/>
 
 ## Oiie, Sara Aqui!!!!
 
@@ -6,7 +6,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraKozoski&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
   
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKozoski&layout=compact&langs_count=16&theme=pink"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKozoski&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div align="center"><br>

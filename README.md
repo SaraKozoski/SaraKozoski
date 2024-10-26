@@ -11,12 +11,12 @@
 
 <div align="center" style="background-color: #333; padding: 20px;">
   <br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(12%) sepia(82%) saturate(1008%) hue-rotate(301deg) brightness(81%) contrast(103%);" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(12%) sepia(82%) saturate(1008%) hue-rotate(301deg) brightness(81%) contrast(103%);" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="filter: brightness(0) saturate(100%) invert(12%) sepia(82%) saturate(1008%) hue-rotate(301deg) brightness(81%) contrast(103%);" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(12%) sepia(82%) saturate(1008%) hue-rotate(301deg) brightness(81%) contrast(103%);" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(12%) sepia(82%) saturate(1008%) hue-rotate(301deg) brightness(81%) contrast(103%);" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(12%) sepia(82%) saturate(1008%) hue-rotate(301deg) brightness(81%) contrast(103%);" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(18%) sepia(100%) saturate(5000%) hue-rotate(300deg) brightness(96%) contrast(108%);" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(18%) sepia(100%) saturate(5000%) hue-rotate(300deg) brightness(96%) contrast(108%);" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="filter: brightness(0) saturate(100%) invert(18%) sepia(100%) saturate(5000%) hue-rotate(300deg) brightness(96%) contrast(108%);" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(18%) sepia(100%) saturate(5000%) hue-rotate(300deg) brightness(96%) contrast(108%);" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(18%) sepia(100%) saturate(5000%) hue-rotate(300deg) brightness(96%) contrast(108%);" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="filter: brightness(0) saturate(100%) invert(18%) sepia(100%) saturate(5000%) hue-rotate(300deg) brightness(96%) contrast(108%);" />
   <br><br>
 </div>
 
